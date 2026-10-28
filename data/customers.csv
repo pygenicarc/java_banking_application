@@ -1,0 +1,4 @@
+customerId,name,age,phoneNumber,email,address,accountNumber,createdAt
+CUST1002,Bob Smith,42,+1-555-123-0202,bob@example.com,456 Oak Ave,ACC100002,2026-10-28 10:30:00
+CUST1003,hanumantha,18,9019191919,test@gmail.com,bangalore,ACC100003,2026-10-29 00:18:47
+CUST1004,tr,19,9898989898,fasd@g.com,tettt,ACC100004,2026-10-29 00:20:11

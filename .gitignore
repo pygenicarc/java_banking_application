@@ -1,0 +1,25 @@
+# Compiled class files
+out/
+bin/
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
